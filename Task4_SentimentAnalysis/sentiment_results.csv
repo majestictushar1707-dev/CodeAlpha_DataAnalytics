@@ -1,0 +1,6 @@
+Review,Sentiment,Compound Score
+This product is amazing! I really loved it.,Positive,0.8513
+"The quality is okay, nothing special.",Negative,-0.092
+Very disappointed. It stopped working after two days.,Negative,-0.6764
+Excellent customer service and fast delivery.,Positive,0.5719
+The product is average.,Neutral,0.0
